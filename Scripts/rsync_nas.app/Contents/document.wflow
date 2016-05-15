@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>417</string>
+	<string>419</string>
 	<key>AMApplicationVersion</key>
 	<string>2.6</string>
 	<key>AMDocumentVersion</key>
@@ -174,7 +174,7 @@ rsync -auE --include="*.mp4" --include="*.flv" --include="*.wmv" --exclude="*" ~
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>490.000000:253.000000</string>
+				<string>527.000000:253.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>

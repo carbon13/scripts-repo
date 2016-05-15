@@ -1,2 +1,2 @@
-return "'" + clipText.replace(/\n/, "', \n'") + "'";
+return "'" + clipText.replace(/\n/g, "', \n'").trim() + "'";
 
