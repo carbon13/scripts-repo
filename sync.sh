@@ -2,9 +2,10 @@
 
 cd `dirname $0`
 
-cp -rf /Users/yamada/Library/Services .
-cp -rf /Users/yamada/Library/Scripts .
-cp -rf /Users/yamada/Library/Workflows .
+cp -rf ~/Library/Services .
+cp -rf ~/Library/Scripts .
+cp -rf ~/Library/Workflows .
+cp -rf ~/Library/Application\ Support/ClipMenu/script/action/* ./ClipmenuScripts/
 
 git add .
 git commit -m "something has changed"
