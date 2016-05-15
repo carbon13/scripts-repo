@@ -9,4 +9,4 @@ cp -rf ~/Library/Application\ Support/ClipMenu/script/action/* ./ClipmenuScripts
 
 git add .
 git commit -m "something has changed"
-git push origin 
+git push origin master
