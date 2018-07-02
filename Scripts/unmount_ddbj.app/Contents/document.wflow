@@ -59,15 +59,13 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>mount_smbfs //yamada:frdkej2283@hamanas/Music ~/Music
-mount_smbfs //yamada:frdkej2283@hamanas/Storage ~/Storage
-mount_smbfs //yamada:frdkej2283@hamanas/Bookshelf ~/Bookshelf</string>
+					<string>diskutil unmount SyncDDBJ</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
 					<integer>0</integer>
 					<key>shell</key>
-					<string>/bin/bash</string>
+					<string>/bin/zsh</string>
 					<key>source</key>
 					<string></string>
 				</dict>
@@ -174,7 +172,7 @@ mount_smbfs //yamada:frdkej2283@hamanas/Bookshelf ~/Bookshelf</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>649.000000:253.000000</string>
+				<string>229.000000:253.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>

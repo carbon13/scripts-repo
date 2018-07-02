@@ -59,15 +59,14 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>mount_smbfs //yamada:frdkej2283@hamanas/Music ~/Music
-mount_smbfs //yamada:frdkej2283@hamanas/Storage ~/Storage
-mount_smbfs //yamada:frdkej2283@hamanas/Bookshelf ~/Bookshelf</string>
+					<string>diskutil unmount SyncDDBJ
+sshfs yh0000549848@gw2.ddbj.nig.ac.jp: ~/SyncDDBJ</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
 					<integer>0</integer>
 					<key>shell</key>
-					<string>/bin/bash</string>
+					<string>/bin/zsh</string>
 					<key>source</key>
 					<string></string>
 				</dict>
