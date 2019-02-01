@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.7</string>
+	<string>444.39</string>
 	<key>AMApplicationVersion</key>
-	<string>2.8</string>
+	<string>2.9</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -85,7 +85,7 @@ sshfs yh0000549848@gw2.ddbj.nig.ac.jp: ~/SyncDDBJ</string>
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>2126188B-0C45-43B5-B1A2-3A4E8B9F936D</string>
+				<string>1F85DBED-D1D3-4366-9A03-7F5092C270D0</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -95,9 +95,9 @@ sshfs yh0000549848@gw2.ddbj.nig.ac.jp: ~/SyncDDBJ</string>
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>2CAB1DF5-8869-43FC-9AEF-022F84A92BEC</string>
+				<string>28B11F67-63DE-4B5D-ADA7-AB1CD3E3EBC8</string>
 				<key>UUID</key>
-				<string>0700CCBD-98C7-4379-BEFC-5F7ACA134C06</string>
+				<string>9EE5E860-1505-4C63-9E7B-0D5E4F85C431</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -170,12 +170,14 @@ sshfs yh0000549848@gw2.ddbj.nig.ac.jp: ~/SyncDDBJ</string>
 						<string>4</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>649.000000:253.000000</string>
+				<string>309.000000:252.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
